@@ -15,6 +15,9 @@ public class App {
         Vehicle passengerTrain = new PassengerTrain("KTX001", "서울", "부산", false, 200);
         Vehicle freightTrain = new FreightTrain("Cargo001", "부산", "구미", true, 100.0);
 
+
+
+        String string = "";
     }
 
 }
